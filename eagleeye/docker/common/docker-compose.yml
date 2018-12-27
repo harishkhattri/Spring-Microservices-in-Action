@@ -1,0 +1,6 @@
+version: '3.3'
+services:
+   licensingservice:
+      image: harishkhattri/tmx-licensing-service:eagle-eye
+      ports:
+         - "8080:8080"

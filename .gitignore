@@ -1,0 +1,23 @@
+/.metadata/
+
+# Java class files
+*.class
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+/target
+
+/target
+/target/
+**/target/
+
+.recommenders/

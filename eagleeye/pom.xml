@@ -17,6 +17,7 @@
 	<description>Parent Pom for the thoughtmechanix project</description>
 	
 	<modules>
+		<module>configserver</module>
 	    <module>licensing-service</module>
 	</modules>
 
